@@ -2,7 +2,7 @@
 from random import randint, shuffle
 
 QUESTIONS_COUNT = 5
-
+# Here is the help functions
 # List of game questions
 questions = [
 	"What is the capital of France?Paris,Berlin,Marseille,Moscow",
